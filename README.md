@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ali
 - 👀 I’m interested in computer vision applications for the edge devices.
 - 🌱 I’m currently working on computer vision applications, edge devices, and edgeML. 
-- 💞️ I’m looking to collaborate on ML and computer vision applications for edge devices.
+- 💞️ I’m looking to collaborate on ML and computer vision applications.
 - 📫 Reach me with the an email --- ali.hassan4696@gmail.com.
 
 <!---
