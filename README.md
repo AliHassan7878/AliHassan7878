@@ -1,6 +1,6 @@
 - 👋 Hi, Welcome to my GitHub profile. I’m @Ali.
-- 🌱 I’m currently working on embedded computer vision applications, edge devices for indoor drones.
-- 👀 I’m interested in computer vision and embedded applications. 
+- 🌱 I’m currently working on embedded computer vision applications, and edge devices for indoor drones.
+- 👀 I’m interested in data science and machine vision applications. 
 - 📫 Reach me with the an email --- ali.hassan4696@gmail.com.
 
 <!---
