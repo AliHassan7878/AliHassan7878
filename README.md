@@ -1,7 +1,6 @@
 - 👋 Hi, Welcome to my GitHub profile. I’m @Ali.
-- 🌱 I’m currently working on aws, git actions, and IoT applications in linux environment.
-- 👀 I’m interested in data science and machine vision applications. 
-- 📫 Reach me with the an email --- ali.hassan4696@gmail.com.
+- 🌱 I’m currently working on Docker, AWS, GitHub Actions, APIs, and IoT applications for linux environment.
+- 👀 I’m interested in and machine vision applications on edge and on cloud as well. 
 
 <!---
 AliHassan7878/AliHassan7878 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
