@@ -1,6 +1,6 @@
-- 👋 Hi, Welcome to my GitHub profile. I’m @Ali.
-- 🌱 I’m currently working on Docker, AWS, GitHub Actions, APIs, and IoT applications for linux environment.
-- 👀 I’m interested in and machine vision applications on edge and on cloud as well. 
+- 👋 Hello, and welcome to my GitHub profile! I’m @Ali.
+- 🌱 I’m currently enhancing my DevOps skills, focusing on Docker, AWS, GitHub Actions, APIs, and IoT applications within a Linux environment.
+- 👀 I have a keen interest in developing applications using edge and cloud technologies."
 
 <!---
 AliHassan7878/AliHassan7878 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
