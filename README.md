@@ -2,6 +2,28 @@ Welcome to my GitHub portfolio! This repository showcases my **end-to-end projec
 
 ---
 
+## ☁️ Cloud & Web Applications
+
+### [Charging Station Control Application](https://github.com/AliHassan7878/Charging-Station-Control-Web-Application)  
+- **Overview:** Web application for managing and controlling multiple charging stations.  
+- **Responsibilities:** Full-stack development, real-time updates with WebSockets, AWS VPC configuration, and CI/CD automation.  
+- **Impact:** Enabled secure, real-time control and monitoring with reduced manual intervention.  
+- **Technologies:** HTML, CSS, JavaScript, WebSocket, Python, Flask, Docker, AWS EC2 & VPC, GitHub Actions  
+
+### [Real-Time Drone Video Streaming](https://github.com/AliHassan7878/Video-Streaming-from-the-Drone-Camera)  
+- **Overview:** Video streaming pipeline from drone cameras for remote monitoring.  
+- **Responsibilities:** Stream pipeline design, front-end interface, real-time updates, secure cloud deployment, and CI/CD.  
+- **Impact:** Allowed remote teams to monitor drone operations securely and efficiently.  
+- **Technologies:** HTML, CSS, JavaScript, WebSocket, GStreamer, MediaMTX, Docker, AWS EC2 & VPC, GitHub Actions  
+
+### [System Redesign with Microservices & Central Logging](https://github.com/AliHassan7878/System-Redesign-Microservices-Central-Logging)  
+- **Overview:** Redesigned system architecture for scalability and maintainability using microservices.  
+- **Responsibilities:** Backend development, centralized logging integration, API design, testing.  
+- **Impact:** Improved system scalability, maintainability, and monitoring efficiency.  
+- **Technologies:** Python, Flask, RESTful APIs, Docker, MariaDB  
+
+---
+
 ## 💻 Computer Vision & AI Projects
 
 ### [Computer Vision Object Detection](https://github.com/AliHassan7878/Computer-Vision-Object-Detection-Python-PyTorch)  
@@ -52,27 +74,6 @@ Welcome to my GitHub portfolio! This repository showcases my **end-to-end projec
 
 ---
 
-## ☁️ Cloud & Web Applications
-
-### [Charging Station Control Application](https://github.com/AliHassan7878/Charging-Station-Control-Web-Application)  
-- **Overview:** Web application for managing and controlling multiple charging stations.  
-- **Responsibilities:** Full-stack development, real-time updates with WebSockets, AWS VPC configuration, and CI/CD automation.  
-- **Impact:** Enabled secure, real-time control and monitoring with reduced manual intervention.  
-- **Technologies:** HTML, CSS, JavaScript, WebSocket, Python, Flask, Docker, AWS EC2 & VPC, GitHub Actions  
-
-### [Real-Time Drone Video Streaming](https://github.com/AliHassan7878/Video-Streaming-from-the-Drone-Camera)  
-- **Overview:** Video streaming pipeline from drone cameras for remote monitoring.  
-- **Responsibilities:** Stream pipeline design, front-end interface, real-time updates, secure cloud deployment, and CI/CD.  
-- **Impact:** Allowed remote teams to monitor drone operations securely and efficiently.  
-- **Technologies:** HTML, CSS, JavaScript, WebSocket, GStreamer, MediaMTX, Docker, AWS EC2 & VPC, GitHub Actions  
-
-### [System Redesign with Microservices & Central Logging](https://github.com/AliHassan7878/System-Redesign-Microservices-Central-Logging)  
-- **Overview:** Redesigned system architecture for scalability and maintainability using microservices.  
-- **Responsibilities:** Backend development, centralized logging integration, API design, testing.  
-- **Impact:** Improved system scalability, maintainability, and monitoring efficiency.  
-- **Technologies:** Python, Flask, RESTful APIs, Docker, MariaDB  
-
----
 
 ## 📫 Contact & Connect
 - [LinkedIn](https://www.linkedin.com/in/ali-hassan-728295156/)  
