@@ -58,19 +58,19 @@ Welcome to my GitHub portfolio! This repository showcases my **end-to-end projec
 - **Overview:** Developed motion planning algorithms for autonomous drone navigation.  
 - **Responsibilities:** Algorithm design, testing, and validation in real-world scenarios.  
 - **Impact:** Improved navigation accuracy and autonomous operation performance.  
-- **Technologies:** Python, OpenCV, ROS  
+- **Technologies:** Python, OpenCV, ArduPilot, MavLink
 
 ### [Drone Simulation with Microsoft AirSim](https://github.com/AliHassan7878/Drone-Simulation-Environment-with-AirSim-and-Unreal-Engine)  
 - **Overview:** High-fidelity simulation environment for safe testing of drone algorithms.  
 - **Responsibilities:** Team leadership, environment design, testing, and demonstrations.  
 - **Impact:** Reduced hardware testing risks and enabled remote team testing.  
-- **Technologies:** Microsoft AirSim, Unreal Engine, Python  
+- **Technologies:** Microsoft AirSim, Unreal Engine, Python, ArduPilot
 
 ### [Gas Detection in Tunnel Environments](https://github.com/AliHassan7878/Gas-Detection-in-Tunnel-Environments-Using-Drones)  
 - **Overview:** Drone-based hazardous gas detection system for tunnels.  
 - **Responsibilities:** End-to-end system development, sensor integration, testing, and demonstration.  
 - **Impact:** Enabled safe remote monitoring and improved operational safety.  
-- **Technologies:** Python, ROS, Drone hardware, Gas sensors  
+- **Technologies:** Python, Drone hardware, Gas sensors  
 
 ---
 
